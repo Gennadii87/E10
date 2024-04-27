@@ -157,11 +157,7 @@ article .demo {
 .experience .timeline-item:hover {
     background-color: rgb(0, 0, 0); 
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
-    color: #0000;
-    background-image: url(img/ts.png);
-    background-size: cover;
-    background-position: center;
-        transform: scale(1.1); 
+    transform: scale(1.1); 
   }
   .forecastCard:nth-of-type(1) {
     animation-delay: 0.1s; 
