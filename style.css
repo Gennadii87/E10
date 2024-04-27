@@ -157,7 +157,7 @@ article .demo {
 
 .experience .timeline-item:hover {
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
-    transform: scale(1.1); 
+    transform: scale(1.07); 
   }
   .forecastCard:nth-of-type(1) {
     animation-delay: 0.1s; 
